@@ -1,4 +1,4 @@
-
+11111111111111
 'there are our project'
 from sys import exit
 from random import randint
